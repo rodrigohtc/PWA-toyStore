@@ -6,7 +6,7 @@ This project is a study on the construction of mobile applications in PWA patter
 
 ## Screenshots
 
-![App Screenshot](https://imageup.me/oy2)
+https://imageup.me/oy2
 
 
 ## 🚀 About me
